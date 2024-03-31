@@ -1,4 +1,4 @@
-export const URL = "http://api.kupipodariday.makeev.nomoredomainswork.ru";
+export const URL = "https://api.kupipodariday.makeev.nomoredomainswork.ru";
 
 export const MINIMUM_PASSWORD_LENGTH = 3;
 export const MINIMUM_USERNAME_LENGTH = 3;
